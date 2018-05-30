@@ -24,13 +24,14 @@ github_username:  Seeking-Wisdom
 
 # Build settings
 markdown: kramdown
-# theme: jekyll-theme-hydeout
 plugins:
   - jekyll-feed
   - jekyll-paginate
 
 paginate: 10
 paginate_path: "/page:num"
+
+disqus.shortname: "seeking-wisdom"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
